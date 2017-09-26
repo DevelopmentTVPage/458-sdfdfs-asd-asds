@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "qweasd"
+baseURL = "https:\/\/sdfdfs.asd.asds"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "asd.asds"
